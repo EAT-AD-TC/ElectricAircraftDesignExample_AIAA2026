@@ -1,0 +1,1 @@
+# ElectricAircraftDesignExample_AIAA2026
