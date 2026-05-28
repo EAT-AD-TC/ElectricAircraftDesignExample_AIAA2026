@@ -1,8 +1,14 @@
 # Electric Aircraft Design Example
+ 
+This repository contains the electric aircraft design example Jupyter notebook and suporting Python modules that are a companion to the whitepaer titled : "Conceptual Design of Electrified Aircraft: A Practical Guide
+for Engineering Students and Practitioners". This notebook and the companion whitepaper is a non-profit initiative of the AIAA Electrified Aircraft Technologies Technical Committee (EAT
+TC).
 
-This repository contains Jupyter notebooks and helper Python modules for the EADG worked examples. Workshop participants will mainly use:
 
+The Jupyter notebook is named: 
 `E_19_Worked_Example.ipynb`
+
+
 
 ## Requirements
 
