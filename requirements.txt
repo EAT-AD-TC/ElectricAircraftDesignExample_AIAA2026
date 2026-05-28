@@ -11,7 +11,3 @@ ipykernel
 # Test dependency used in tests/
 pytest
 
-# Note:
-# - OpenVSP is referenced by the builder notebook/tooling, but it is not a
-#   pip dependency here. Install the OpenVSP application separately if you
-#   want to use Jetstream31_OpenVSP_Builder.ipynb.
