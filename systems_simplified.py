@@ -57,7 +57,7 @@ def flight_control_system_weight_kg(
     v_max_mach=None,
 ):
     """
-    Estimate flight-control system mass using the FLOPS-style WSC correlation.
+    Estimate flight-control system mass using the FLOPS correlation.
 
     All inputs are SI:
     - wing_reference_area_m2: reference wing area [m^2]

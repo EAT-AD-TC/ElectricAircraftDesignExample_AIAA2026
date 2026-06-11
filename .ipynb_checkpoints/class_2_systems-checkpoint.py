@@ -3,7 +3,7 @@
 
 """Subsystem mass and power estimation utilities """
 
-""" Note : Heavy reliance on AI generated code. Equations verified, additionnal validation required """
+""" Note : Heavy reliance on AI generated code. Not completely verified - needs work """
 
 import math
 from typing import Any, Iterable, Mapping, Optional
@@ -860,7 +860,7 @@ def galley_entertainment_furnishing_weight_mohan_kg(
     return float(k_gef) * ((float(n_crew + n_passengers) ** 1.65) / (cabin_volume_ft3**0.18))
 
 
-# High-level wrappers for the worked-example dictionary - TO BE REMOVED- Not used in E-19 example
+# High-level wrappers for the worked-example dictionary
 def derive_system_context_from_inputs(
     inputs: Mapping[str, Any],
     *,
